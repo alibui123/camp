@@ -1,0 +1,56 @@
+'use client';
+
+import { useEffect } from 'react';
+import gsap from 'gsap';
+import { ScrollToPlugin } from 'gsap/ScrollToPlugin';
+
+gsap.registerPlugin(ScrollToPlugin);
+
+export default function Navbar() {
+  useEffect(() => {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <a href="#services">Services</a>          <li>          </li>            <a href="#about">About</a>          <li>        <ul className="nav-links">        </a>          CAMP          </div>            </svg>              <rect x="18" y="20" width="10" height="2" fill="#030303" />              <rect x="18" y="15" width="8" height="2" fill="#030303" />              <rect x="18" y="10" width="10" height="2" fill="#030303" />              </text>                C              >                letterSpacing="1"                fill="#030303"                fontSize="22"                fontFamily="'Bebas Neue',sans-serif"                y="24"                x="4"              <text              <rect width="32" height="32" fill="#e8ff47" />            <svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">          <div className="logo-mark">        <a href="#" className="nav-logo">      <nav id="nav">      <div id="progress-bar"></div>      <div id="noise"></div>    <>  return (  }, []);    });      });        }          gsap.to(window, { scrollTo: target, duration: 1.2, ease: 'power3.inOut' });          e.preventDefault();        if (target) {        const target = document.querySelector(a.getAttribute('href')!);      a.addEventListener('click', (e: any) => {    document.querySelectorAll('a[href^="#"]').forEach((a) => {n    // Smooth scroll for nav links
